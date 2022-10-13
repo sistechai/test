@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    return 'Hello World, with git and docker'
+    return 'Hello World, This is auto deploy test'
 
 
 
